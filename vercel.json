@@ -1,0 +1,5 @@
+   {
+     "rewrites": [
+       { "source": "/", "destination": "/AWS_SAA-C03_Advanced_Notebook.html" }
+     ]
+   }
