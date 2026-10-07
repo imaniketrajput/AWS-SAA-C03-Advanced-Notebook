@@ -5,12 +5,12 @@
 **A hand-written-style, colour-coded study notebook for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.**
 Architecture decisions · exam traps · service-selection cheat sheets — all in one self-contained HTML file.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?logo=vercel&logoColor=white)](https://YOUR-PROJECT.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?logo=vercel&logoColor=white)](https://aws-saa-c03-advanced-notebook-l25wdv9s7.vercel.app/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)
 ![Exam](https://img.shields.io/badge/Exam-SAA--C03-FF9900?logo=amazonaws&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Single%20HTML-blue)
 
-[**🌐 Open the notebook**](https://YOUR-PROJECT.vercel.app) · [Report an issue](../../issues)
+[**🌐 Open the notebook**](https://aws-saa-c03-advanced-notebook-l25wdv9s7.vercel.app/) · [Report an issue](../../issues)
 
 </div>
 
